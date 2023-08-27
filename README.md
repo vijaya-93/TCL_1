@@ -30,17 +30,20 @@ _**(iv)**_ Printing variable values on to screen and checking for the existance 
 <img width="554" alt="shell-3" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/2e0e3b3f-022a-42a9-8ce0-32027df42611">
 
 **Step2:** Creating constraints from the .csv file in SDC form compatible with synthesis tool "**Yosys**"
-**(i)** creating clock constraints for latency and transition
 
-**(ii)** Identify the bus type ports from a list of input ports and add "*" to apply the constraints to all bits of a bus uniformly
+_**(i)**_ creating clock constraints for latency and transition
 
-**(iii)** creating input constraints for latency and transition
+_**(ii)**_ Identify the bus type ports from a list of input ports and add "*" to apply the constraints to all bits of a bus uniformly
 
-**(iv)** Identify the bus type ports from a list of output ports and add "*" to apply the constraints to all bits of a bus uniformly
+_**(iii)**_ creating input constraints for latency and transition
 
-**(v)** creating output constraints for latency 
+_**(iv)**_ Identify the bus type ports from a list of output ports and add "*" to apply the constraints to all bits of a bus uniformly
 
-**(vi)** creating constraints for load
+_**(v)**_ creating output constraints for latency 
+
+_**(vi)**_ creating constraints for load
+
+_**(vii)**_ dumping the above created constraints for clock, input, output to .sdc file created in output directory
 
 <img width="542" alt="shell-4" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/7b94e07b-faa1-4298-ad8c-4828bd5f5c77">
 
