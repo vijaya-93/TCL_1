@@ -71,33 +71,17 @@ _**(iii)**_ perform the synthesis using tool "**Yosys**" and observe the synthes
 
 <img width="506" alt="shell-10" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/16410327-aebc-4dab-814c-288eda4f7139">
 
-**Step4:**  
-
-
-
-
 <img width="544" alt="c_hier_ys" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/46f9d71c-02e5-4802-8610-70b195c0828b">
-
-
 
 <img width="543" alt="c_ys" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/399bf92d-e1d3-4df7-a74a-b1a2d9f50079">
 
-
-
-
 <img width="533" alt="c_ys_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/9ea6c23a-96cd-4602-af34-259584957938">
-
-
-
 
 <img width="545" alt="c_synth_v" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/15c7a66f-c32f-4cfc-9299-77167ad952a6">
 
-
-
-
 <img width="546" alt="c_sdc" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/25e10d4a-de42-4055-9204-27a1ebad3b7d">
 
-
+**Step4:** convert the inputs & SDC to a form compatible with STA engine "**OpenTimer**"
 
 
 
