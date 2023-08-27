@@ -59,20 +59,19 @@ _**(vii)**_ dumping the above created constraints for clock, input, output to .s
 
 **Step3:** _**(i)**_ check hierarchy and identify the missing verilog modules and fix the issues related to submodule references
 
-_**(ii)**_ perform the synthesis using tool "**Yosys**" 
+_**(ii)**_ generate the script required for synthesis using "**Yosys**" tool
+
+_**(iii)**_ perform the synthesis using tool "**Yosys**" and observe the synthesized netlist generated in output directory
 
 <img width="546" alt="shell-8" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/1902dea7-7561-4510-b0ee-e5f24f698347">
 
 <img width="548" alt="shell-9 1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/8e5ab618-fd45-4bd5-b32d-8025a75f3295">
 
-**Step4:**  
-
 <img width="541" alt="shell-9" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/03cb5cb2-1ca0-4d6c-95f6-cec3f9e9954c">
-
 
 <img width="506" alt="shell-10" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/16410327-aebc-4dab-814c-288eda4f7139">
 
-
+**Step4:**  
 
 
 
