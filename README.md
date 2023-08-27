@@ -13,6 +13,10 @@
 
     **step4:** generate output reports
 
+**Stepwise details and sample results:**
+
+**Step1:** creating shell script "**vsdsynth.sh**" that can pass .csv file with design details to tcl script. Below is the message when shell script is executed without any argument (.csv file)
+
 <img width="401" alt="shell_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/b260fdce-cff9-4a7b-b9f5-e45e9af8dd30">
 
 
