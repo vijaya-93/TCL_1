@@ -86,4 +86,6 @@ _**(iii)**_ perform the synthesis using tool "**Yosys**" and observe the synthes
 
 
 
+**step5:** generate output reports
+
 
