@@ -9,9 +9,11 @@
 
     **step2:** convert all inputs to a form compatible with synthesis tool "**Yosys**"
 
-    **step3:**  convert the inputs & SDC to a form compatible with STA engine "**OpenTimer**"
+   ** step3:** check hierarchy and identify the missing verilog modules and perform the synthesis using tool "**Yosys**"
 
-    **step4:** generate output reports
+    **step4:**  convert the inputs & SDC to a form compatible with STA engine "**OpenTimer**"
+
+    **step5:** generate output reports
 
 **Stepwise details and sample results:**
 
@@ -53,16 +55,17 @@ _**(vii)**_ dumping the above created constraints for clock, input, output to .s
 
 <img width="544" alt="shell-6" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/c7cb921b-43e6-410e-992b-8bd29b7585b3">
 
-
-
 <img width="542" alt="shell-7" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/4a9ddb82-6914-4588-9848-c95a2712353a">
 
+**Step3:** _**(i)**_ check hierarchy and identify the missing verilog modules and fix the issues related to submodule references
+
+_**(ii)**_ perform the synthesis using tool "**Yosys**" 
 
 <img width="546" alt="shell-8" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/1902dea7-7561-4510-b0ee-e5f24f698347">
 
-
 <img width="548" alt="shell-9 1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/8e5ab618-fd45-4bd5-b32d-8025a75f3295">
 
+**Step4:**  
 
 <img width="541" alt="shell-9" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/03cb5cb2-1ca0-4d6c-95f6-cec3f9e9954c">
 
