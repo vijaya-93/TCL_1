@@ -49,6 +49,9 @@ _**(vi)**_ creating constraints for load
 
 _**(vii)**_ dumping the above created constraints for clock, input, output to .sdc file created in output directory
 
+<img width="542" alt="shell-4" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/0672519a-c4e3-459e-bb4c-40c428654e08">
+
+
 <img width="542" alt="shell-7" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/1acca9a7-e6ac-44f3-ba2f-ea97467f487e">
 
 <img width="544" alt="shell-6" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/e22d4728-322d-45a1-8570-5f486e13a12d">
