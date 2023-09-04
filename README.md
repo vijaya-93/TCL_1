@@ -63,23 +63,27 @@ _**(ii)**_ generate the script required for synthesis using "**Yosys**" tool
 
 _**(iii)**_ perform the synthesis using tool "**Yosys**" and observe the synthesized netlist generated in output directory
 
-<img width="546" alt="shell-8" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/1902dea7-7561-4510-b0ee-e5f24f698347">
+<img width="546" alt="shell-8" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/fd381b85-3b36-46b0-9543-d146ac9b37fe">
 
-<img width="548" alt="shell-9 1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/8e5ab618-fd45-4bd5-b32d-8025a75f3295">
+<img width="548" alt="shell-9 1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/801b6000-ba8e-4b55-8184-34e2e0b0496a">
 
-<img width="541" alt="shell-9" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/03cb5cb2-1ca0-4d6c-95f6-cec3f9e9954c">
+<img width="541" alt="shell-9" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/cc95d6b3-a6b8-4b63-8276-8ab88e923725">
 
-<img width="506" alt="shell-10" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/16410327-aebc-4dab-814c-288eda4f7139">
+<img width="506" alt="shell-10" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/a8b81651-ff4f-4ea4-82d3-961d0e10a23b">
 
-<img width="544" alt="c_hier_ys" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/46f9d71c-02e5-4802-8610-70b195c0828b">
+<img width="360" alt="code-1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/9c629851-528a-4c78-9e91-e83af735c3d0">
 
-<img width="543" alt="c_ys" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/399bf92d-e1d3-4df7-a74a-b1a2d9f50079">
+<img width="529" alt="code-2" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/838550c3-606c-4987-91fb-dd8b7426579d">
 
-<img width="533" alt="c_ys_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/9ea6c23a-96cd-4602-af34-259584957938">
+<img width="544" alt="c_hier_ys" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/da7bb490-51a6-46fd-9a08-ae3346dad12c">
 
-<img width="545" alt="c_synth_v" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/15c7a66f-c32f-4cfc-9299-77167ad952a6">
+<img width="543" alt="c_ys" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/523d4f3d-bd6b-4dfa-b171-64122768c60b">
 
-<img width="546" alt="c_sdc" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/25e10d4a-de42-4055-9204-27a1ebad3b7d">
+<img width="533" alt="c_ys_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/d50e9c44-e2ad-4512-ae3e-5612eb965828">
+
+<img width="546" alt="c_sdc" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/a3b1b1d9-fc4c-4303-92c5-5b3f80415b1e">
+
+<img width="545" alt="c_synth_v" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/3db1984c-ecb9-4dcf-8457-793ba6d54539">
 
 **Step4:** convert the inputs & SDC to a form compatible with STA engine "**OpenTimer**"
 
