@@ -19,17 +19,19 @@
 
 **Step1:** _**(i)**_ creating shell script "**vsdsynth.sh**" that can pass .csv file with design details to tcl script. Below is the message when shell script is executed without any argument (.csv file)
 
-<img width="401" alt="shell_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/b260fdce-cff9-4a7b-b9f5-e45e9af8dd30">
+<img width="401" alt="shell_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/d632d061-e3b5-4f90-86e8-f09b2c807c89">
 
 _**(ii)**_ Passing a valid .csv file as an argument to shell script and also the tcl script "**vsdsynth.tcl**". 
 
 **(iii)**_ Defining variables from the data provided in .csv file
 
-<img width="541" alt="shell-2" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/bca3e804-dc59-4757-8176-b7c27b870468">
+<img width="541" alt="shell-2" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/aa02bb6c-4953-43e0-b8d1-ec7f0e39a930">
+
 
 _**(iv)**_ Printing variable values on to screen and checking for the existance of directories present in the .csv file
 
-<img width="554" alt="shell-3" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/2e0e3b3f-022a-42a9-8ce0-32027df42611">
+<img width="554" alt="shell-3" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/8023770e-9ea3-43e5-a8ff-5c30c255608d">
+
 
 **Step2:** Creating constraints from the .csv file in SDC form compatible with synthesis tool "**Yosys**"
 
