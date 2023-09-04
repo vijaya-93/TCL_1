@@ -70,10 +70,9 @@ _**(iii)**_ perform the synthesis using tool "**Yosys**" and observe the synthes
 <img width="541" alt="shell-9" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/cc95d6b3-a6b8-4b63-8276-8ab88e923725">
 
 
-<img width="506" alt="shell-10" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/a8b81651-ff4f-4ea4-82d3-961d0e10a23b">
-
-
 <img width="360" alt="code-1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/9c629851-528a-4c78-9e91-e83af735c3d0">
+
+<img width="506" alt="shell-10" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/a8b81651-ff4f-4ea4-82d3-961d0e10a23b">
 
 <img width="529" alt="code-2" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/838550c3-606c-4987-91fb-dd8b7426579d">
 
