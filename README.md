@@ -18,10 +18,8 @@
 **Stepwise details and sample results:**
 
 **Step1:** _**(i)**_ creating shell script "**vsdsynth.sh**" that can pass .csv file with design details to tcl script. Below is the message when shell script is executed without any argument (.csv file)
+
 <img width="401" alt="shell_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/923241d6-af08-40c6-a1d2-312e8155226a">
-
-
-<img width="401" alt="shell_1" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/d632d061-e3b5-4f90-86e8-f09b2c807c89">
 
 _**(ii)**_ Passing a valid .csv file as an argument to shell script and also the tcl script "**vsdsynth.tcl**". 
 
