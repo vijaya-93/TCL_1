@@ -49,17 +49,13 @@ _**(vi)**_ creating constraints for load
 
 _**(vii)**_ dumping the above created constraints for clock, input, output to .sdc file created in output directory
 
-<img width="542" alt="shell-4" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/0672519a-c4e3-459e-bb4c-40c428654e08">
+<img width="542" alt="shell-4" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/ef0cbcdd-4258-487e-a113-2ea2759a1c4f">
 
+<img width="544" alt="shell-5" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/fc94b421-c7f6-465b-b570-84428865731b">
 
-<img width="542" alt="shell-7" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/1acca9a7-e6ac-44f3-ba2f-ea97467f487e">
+<img width="544" alt="shell-6" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/254b941b-fca5-4d83-91ff-6318ce50ece8">
 
-<img width="544" alt="shell-6" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/e22d4728-322d-45a1-8570-5f486e13a12d">
-
-<img width="544" alt="shell-5" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/ef0fadfa-8f8d-40e5-b20b-72234b8d2458">
-
-<img width="542" alt="shell-4" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/cd9c1111-7981-467c-a2ff-f9e790f33b63">
-
+<img width="542" alt="shell-7" src="https://github.com/vijaya-93/TCL_workshop/assets/143013255/48da35b9-211f-4ad6-a963-843c773c5eb5">
 
 **Step3:** _**(i)**_ check hierarchy and identify the missing verilog modules and fix the issues related to submodule references
 
